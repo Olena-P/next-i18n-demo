@@ -1,0 +1,13 @@
+{
+  "title": "Internationalization support with Next.js + i18n",
+  "description": "next-intl on the client and server side.",
+  "stepFirst": "Add internationalization support with",
+  "stepSecond": "Update routing",
+  "blogPost": "Read the blog post",
+  "serverDataTitle": "Server data",
+  "apiResponse": "API response",
+  "country": "Country name",
+  "capital": "Capital",
+  "region": "Region",
+  "flag": "Flag"
+}
