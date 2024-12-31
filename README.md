@@ -15,7 +15,7 @@ This repository demonstrates how to set up **Next.js** with internationalization
 
 ## Project Structure
 
-![Project Structure](./next-intl.webp)
+![Project Structure](next-intl.webp)
 
 ---
 
